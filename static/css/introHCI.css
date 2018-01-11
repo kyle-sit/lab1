@@ -1,10 +1,11 @@
 /* applies to anything of class "example-class-selector" */
-.example-class-selector {
+.project {
 	margin-top: 2em;
+     margin-left:20px;
 }
 
 /* applies to any <p> descendants of an element of class "example-class-selector" */
-.example-class-selector p {
+.project p {
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */
 	color: #CC00AA;
 }
